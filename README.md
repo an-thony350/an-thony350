@@ -66,39 +66,29 @@ I am exploring **FPGA, RTL, digital design and hardware acceleration opportuniti
 <details open>
 <summary><h2>Featured hardware projects</h2></summary>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/an-thony350/ITCH-Feed-Handler-and-Order-Book">ITCH Feed Handler and FPGA Order Book</a></h3>
-      <p>Timing-clean FPGA market-data pipeline with Ethernet, IPv4, UDP, MoldUDP64 and ITCH processing, followed by a hardware-maintained order book.</p>
-      <p>
-        <img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-RTL-8957E5?style=flat-square">
-        <img alt="Cocotb" src="https://img.shields.io/badge/Cocotb-Verification-238636?style=flat-square">
-        <img alt="Vivado" src="https://img.shields.io/badge/Vivado-FPGA-F5A623?style=flat-square">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/an-thony350/FractalScope">FractalScope</a></h3>
-      <p>Interactive 720p fractal renderer using parallel fixed-point RTL, AXI framebuffer writes, HDMI output and a Python/PYNQ application layer.</p>
-      <p>
-        <img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-RTL-8957E5?style=flat-square">
-        <img alt="PYNQ" src="https://img.shields.io/badge/PYNQ-Zynq--7000-58A6FF?style=flat-square">
-        <img alt="Python" src="https://img.shields.io/badge/Python-Control-3776AB?style=flat-square">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3><a href="https://github.com/derza-essien/Accelerated-HFT-System">FPGA-Accelerated Real-Time System</a></h3>
-      <p>Team project using a fixed-point FPGA accelerator to speed up online linear-regression updates for streaming market data, with processing-system control and hardware integration.</p>
-      <p>
-        <img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-RTL-8957E5?style=flat-square">
-        <img alt="Hardware acceleration" src="https://img.shields.io/badge/FPGA-Hardware_Acceleration-1F6FEB?style=flat-square">
-        <img alt="PYNQ" src="https://img.shields.io/badge/PYNQ-Zynq--7000-58A6FF?style=flat-square">
-      </p>
-    </td>
-  </tr>
-</table>
+### [ITCH Feed Handler and FPGA Order Book](https://github.com/an-thony350/ITCH-Feed-Handler-and-Order-Book)
+
+Timing-clean FPGA market-data pipeline with Ethernet, IPv4, UDP, MoldUDP64 and ITCH processing, followed by a hardware-maintained order book.
+
+<sub>Primary language: SystemVerilog</sub>
+
+<br>
+
+### [FractalScope](https://github.com/an-thony350/FractalScope)
+
+Interactive 720p fractal renderer using parallel fixed-point RTL, AXI framebuffer writes, HDMI output and a Python/PYNQ application layer.
+
+<sub>Primary language: SystemVerilog</sub>
+
+<br>
+
+### [FPGA-Accelerated Real-Time System](https://github.com/derza-essien/Accelerated-HFT-System)
+
+Team project using a fixed-point FPGA accelerator to speed up online linear-regression updates for streaming market data, with processing-system control and hardware integration.
+
+<sub>Primary language: SystemVerilog</sub>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/an-thony350?tab=repositories">
@@ -111,28 +101,19 @@ I am exploring **FPGA, RTL, digital design and hardware acceleration opportuniti
 <details open>
 <summary><h2>Computer architecture and systems work</h2></summary>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/an-thony350/RV32IM-Processor">RV32IM Processor</a></h3>
-      <p>Five-stage pipelined RISC-V processor with forwarding, hazard handling, cache integration, multiplication instructions and dynamic branch prediction.</p>
-      <p>
-        <img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-RTL-8957E5?style=flat-square">
-        <img alt="RISC-V" src="https://img.shields.io/badge/RISC--V-RV32IM-161B22?style=flat-square">
-        <img alt="Computer architecture" src="https://img.shields.io/badge/Focus-Computer_Architecture-1F6FEB?style=flat-square">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/an-thony350/C90-Compiler">C90 Compiler</a></h3>
-      <p>C++ compiler for a practical C90 subset, covering lexing, parsing, AST construction and generation of RISC-V assembly.</p>
-      <p>
-        <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-Compiler-00599C?style=flat-square">
-        <img alt="RISC-V" src="https://img.shields.io/badge/Target-RISC--V-161B22?style=flat-square">
-        <img alt="Systems" src="https://img.shields.io/badge/Focus-Systems-238636?style=flat-square">
-      </p>
-    </td>
-  </tr>
-</table>
+### [RV32IM Processor](https://github.com/an-thony350/RV32IM-Processor)
+
+Five-stage pipelined RISC-V processor with forwarding, hazard handling, cache integration, multiplication instructions and dynamic branch prediction.
+
+<sub>Primary language: SystemVerilog</sub>
+
+<br>
+
+### [C90 Compiler](https://github.com/an-thony350/C90-Compiler)
+
+C++ compiler for a practical C90 subset, covering lexing, parsing, AST construction and generation of RISC-V assembly.
+
+<sub>Primary language: C++</sub>
 
 </details>
 
