@@ -136,58 +136,6 @@ I am exploring **FPGA, RTL, digital design and hardware acceleration opportuniti
 
 </details>
 
-<details open>
-<summary><h2>Languages and tools</h2></summary>
-
-### Hardware and verification
-
-<p>
-  <img src="https://img.shields.io/badge/SystemVerilog-RTL-8957E5?style=flat-square" alt="SystemVerilog">
-  <img src="https://img.shields.io/badge/Vivado-FPGA_Implementation-F5A623?style=flat-square" alt="Vivado">
-  <img src="https://img.shields.io/badge/Cocotb-Verification-238636?style=flat-square" alt="Cocotb">
-  <img src="https://img.shields.io/badge/Verilator-Simulation-1F6FEB?style=flat-square" alt="Verilator">
-  <img src="https://img.shields.io/badge/PYNQ-Hardware%2FSoftware_Co--design-58A6FF?style=flat-square" alt="PYNQ">
-  <img src="https://img.shields.io/badge/GTKWave-Waveform_Debugging-6E7681?style=flat-square" alt="GTKWave">
-</p>
-
-### Software and systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,git,linux,bash,vscode&theme=dark" alt="Python, C++, C, Git, Linux, Bash and VS Code">
-</p>
-
-### Interfaces and architecture
-
-<p>
-  <img src="https://img.shields.io/badge/AXI4-Interfaces-161B22?style=flat-square" alt="AXI4">
-  <img src="https://img.shields.io/badge/AXI4--Stream-Streaming_Data-161B22?style=flat-square" alt="AXI4-Stream">
-  <img src="https://img.shields.io/badge/BRAM-Memory_Architecture-161B22?style=flat-square" alt="BRAM">
-  <img src="https://img.shields.io/badge/Fixed--Point-Arithmetic-161B22?style=flat-square" alt="Fixed-point arithmetic">
-  <img src="https://img.shields.io/badge/RISC--V-Computer_Architecture-161B22?style=flat-square" alt="RISC-V">
-</p>
-
-</details>
-
-<details open>
-<summary><h2>Currently building and learning</h2></summary>
-
-* Optimising an FPGA market-data ingress and order-book pipeline
-* Developing more rigorous latency and throughput measurement
-* Exploring timing-driven RTL architecture and resource trade-offs
-* Expanding my SystemVerilog design and verification knowledge
-* Investigating FPGA platforms with direct programmable-logic Ethernet access
-
-<p>
-  <a href="https://github.com/an-thony350/ITCH-Feed-Handler-and-Order-Book">
-    <img alt="Current project" src="https://custom-icon-badges.demolab.com/badge/-Current_Project:_ITCH_FPGA_System-0D1117?style=for-the-badge&logo=workflow&logoColor=58A6FF">
-  </a>
-  <a href="https://github.com/an-thony350/systemverilog-coding-problems">
-    <img alt="RTL exercises" src="https://custom-icon-badges.demolab.com/badge/-RTL_Learning_Repository-0D1117?style=for-the-badge&logo=code&logoColor=BC8CFF">
-  </a>
-</p>
-
-</details>
-
 ---
 
 <div align="center">
