@@ -44,7 +44,7 @@
 ---
 
 <details open>
-<summary><h2>About me</h2></summary>
+<summary><h2>About</h2></summary>
 
 I am an **Electronic and Information Engineering MEng student at Imperial College London**, graduating in 2028.
 
@@ -57,18 +57,15 @@ My main interests lie in the architecture and implementation of efficient digita
 * Verification, performance measurement and timing optimisation
 * Hardware and software co-design on Zynq and PYNQ platforms
 
-I particularly enjoy projects that extend beyond an isolated RTL module, combining reference models, verification, interfaces, implementation results and operation on physical hardware.
-
-I am exploring **FPGA, RTL, digital design and hardware acceleration opportunities for 2027** across industries where performance, reliability and efficient computation matter.
 
 </details>
 
 <details open>
-<summary><h2>Featured hardware projects</h2></summary>
+<summary><h2>Hardware projects</h2></summary>
 
 ### [ITCH Feed Handler and FPGA Order Book](https://github.com/an-thony350/ITCH-Feed-Handler-and-Order-Book)
 
-Timing-clean FPGA market-data pipeline with Ethernet, IPv4, UDP, MoldUDP64 and ITCH processing, followed by a hardware-maintained order book.
+FPGA market-data pipeline with Ethernet, IPv4, UDP, MoldUDP64 and ITCH processing @ 10GbE, followed by a hardware-maintained order book.
 
 <sub>Primary language: SystemVerilog</sub>
 
@@ -121,9 +118,6 @@ C++ compiler for a practical C90 subset, covering lexing, parsing, AST construct
 
 <div align="center">
 
-### Interested in building efficient, reliable hardware systems
-
-FPGA · RTL · Verification · Hardware Acceleration · Computer Architecture
 
 <br>
 
