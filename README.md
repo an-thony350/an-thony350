@@ -21,7 +21,7 @@
 
 -->
 
-# Hi, I'm Anthony Bartlett
+# Hi, I'm Anthony
 
 ### FPGA · RTL · Digital Hardware Systems
 
